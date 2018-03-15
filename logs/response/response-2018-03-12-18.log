@@ -1,0 +1,166 @@
+[2018-03-12T18:10:31.673] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"password":"name","mobile":123}
+response time: 111
+err name: Error
+err message: [object Object]
+err stack: Error: [object Object]
+    at ValidationPipe.<anonymous> (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:50:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:13:58)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-12T18:12:22.021] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"password":"name","mobile":123}
+response time: undefined
+response status: undefined
+response body: 
+{"password":"name","mobile":123}
+*************** response log end ***************
+
+[2018-03-12T18:15:57.246] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"password":4444,"mobile":123}
+response time: 62
+err name: Error
+err message: [object Object]
+err stack: Error: [object Object]
+    at ValidationPipe.<anonymous> (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:50:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:13:58)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-12T18:16:42.214] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"password":4444,"mobile":123}
+response time: 36
+err name: Error
+err message: [object Object]
+err stack: Error: [object Object]
+    at ValidationPipe.<anonymous> (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:50:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:13:58)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-12T18:17:40.391] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"password":4444,"mobile":123}
+response time: 67
+err name: Error
+err message: [object Object]
+err stack: Error: [object Object]
+    at ValidationPipe.<anonymous> (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:50:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:13:58)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-12T18:18:15.790] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"password":4444,"mobile":123}
+response time: 65
+err name: Error
+err message: [object Object]
+err stack: Error: [object Object]
+    at ValidationPipe.<anonymous> (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:50:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:13:58)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-12T18:21:59.324] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"password":4444,"mobile":123}
+response time: 58
+err name: Error
+err message: [object Object]
+err stack: Error: [object Object]
+    at ValidationPipe.<anonymous> (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:50:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:13:58)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-12T18:23:10.291] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"password":4444,"mobile":123}
+response time: 64
+err name: Error
+err message: [object Object]
+err stack: Error: [object Object]
+    at ValidationPipe.<anonymous> (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:50:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:13:58)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-12T18:23:12.244] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"password":4444,"mobile":123}
+response time: 1
+err name: Error
+err message: [object Object]
+err stack: Error: [object Object]
+    at ValidationPipe.<anonymous> (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:50:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:13:58)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-03-12T18:23:29.385] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"password":4444,"mobile":123}
+response time: 63
+err name: Error
+err message: [object Object]
+err stack: Error: [object Object]
+    at ValidationPipe.<anonymous> (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:50:23)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/a39/Desktop/profile/nest-starter/node_modules/@nestjs/common/pipes/validation.pipe.js:13:58)
+    at <anonymous>
+*************** error log end ***************
+

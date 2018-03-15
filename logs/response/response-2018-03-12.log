@@ -1,0 +1,51 @@
+[2018-03-12T21:57:38.300] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"mobile":"string","password":"string"}
+response time: undefined
+response status: undefined
+response body: 
+{"mobile":"string","password":"string"}
+*************** response log end ***************
+
+[2018-03-12T21:57:43.844] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"mobile":"string","password":"string"}
+response time: undefined
+response status: undefined
+response body: 
+{"mobile":"string","password":"string"}
+*************** response log end ***************
+
+[2018-03-12T21:58:22.639] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /user
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: undefined
+response body: 
+{}
+*************** response log end ***************
+
+[2018-03-12T21:58:39.904] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /user
+request client ip:  ::1
+request body: 
+{"mobile":"123","password":"4"}
+response time: undefined
+response status: undefined
+response body: 
+{"mobile":"123","password":"4"}
+*************** response log end ***************
+
